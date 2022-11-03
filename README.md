@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @foraratinhojr
+- 👀 I’m interested in Linguistics
+- 🌱 I’m currently learning Python
+- 📫 @socrates.upes on Instagram
