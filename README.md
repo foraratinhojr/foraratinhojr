@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @foraratinhojr
-- 👀 I’m interested in Linguistics
-- 🌱 I’m currently learning Python
-- 📫 @socrates.upes on Instagram
+- 👋 Olá, meu nome é Sócrates
+- 👀 Eu estou no 1o ano do Ensino Médio
+- 🌱 No momento, estou aprendendo Python
+- 📫 @socrates.upes no Instagram
